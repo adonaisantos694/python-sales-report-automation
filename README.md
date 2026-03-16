@@ -1,3 +1,5 @@
+This project demonstrates how Python can be used to automate data analysis and generate business-ready Excel reports from raw e-commerce datasets.
+
 # Amazon Product Insights
 
 A Python automation project that transforms raw Amazon product data into a structured Excel analytics report.
