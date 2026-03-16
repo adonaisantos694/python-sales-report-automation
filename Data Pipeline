@@ -1,0 +1,18 @@
+## Data Pipeline
+
+The project follows a simple data processing pipeline:
+
+1. Raw Dataset
+   The script loads the original Amazon product dataset (amazon.csv).
+
+2. Data Cleaning
+   Invalid characters, missing values, and formatting issues are handled.
+
+3. Data Transformation
+   The dataset is simplified to focus on relevant business metrics such as price, ratings, reviews, and estimated revenue.
+
+4. Data Analysis
+   The script calculates key insights like top products, category distribution, and average ratings.
+
+5. Report Generation
+   A structured Excel report is generated automatically with insights and charts.
